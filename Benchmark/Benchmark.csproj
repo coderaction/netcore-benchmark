@@ -9,4 +9,13 @@
       <PackageReference Include="BenchmarkDotNet" Version="0.12.1" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="..\..\..\banchmark.png">
+        <Link>projectImages\banchmark.png</Link>
+      </Content>
+      <Content Include="..\..\..\benchmarkTwo.png">
+        <Link>projectImages\benchmarkTwo.png</Link>
+      </Content>
+    </ItemGroup>
+
 </Project>

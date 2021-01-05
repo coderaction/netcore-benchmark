@@ -10,5 +10,5 @@ Intel Core i9-8950HK CPU 2.90GHz (Coffee Lake), 1 CPU, 12 logical and 6 physical
 ```
 |                          Method |      Mean |     Error |    StdDev |     Gen 0 |     Gen 1 |    Gen 2 | Allocated |
 |-------------------------------- |----------:|----------:|----------:|----------:|----------:|---------:|----------:|
-| ConcatStringsUsingStringBuilder |  8.152 ms | 0.1951 ms | 0.5535 ms | 2828.1250 | 1859.3750 | 937.5000 |  14.86 MB |
-|   ConcatStringsUsingGenericList | 19.694 ms | 0.4721 ms | 1.3920 ms | 1531.2500 |  687.5000 | 281.2500 |   9.16 MB |
+| ConcatStringsUsingStringBuilder |  6.111 ms | 0.1183 ms | 0.1049 ms | 2867.1875 | 1867.1875 | 968.7500 |  14.86 MB |
+|   ConcatStringsUsingGenericList | 19.395 ms | 0.3853 ms | 0.5011 ms | 1531.2500 |  687.5000 | 281.2500 |   9.16 MB |

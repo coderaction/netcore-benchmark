@@ -1,0 +1,15 @@
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/netcoreapp5.0/Benchmark.deps.json
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/netcoreapp5.0/Benchmark.runtimeconfig.json
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/netcoreapp5.0/Benchmark.runtimeconfig.dev.json
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/netcoreapp5.0/Benchmark.dll
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/netcoreapp5.0/ref/Benchmark.dll
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/netcoreapp5.0/Benchmark.pdb
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp5.0/Benchmark.csprojAssemblyReference.cache
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp5.0/Benchmark.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp5.0/Benchmark.AssemblyInfoInputs.cache
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp5.0/Benchmark.AssemblyInfo.cs
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp5.0/Benchmark.csproj.CoreCompileInputs.cache
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp5.0/Benchmark.dll
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp5.0/ref/Benchmark.dll
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp5.0/Benchmark.pdb
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp5.0/Benchmark.genruntimeconfig.cache

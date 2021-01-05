@@ -1,0 +1,12 @@
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/netcoreapp3.1/Benchmark.deps.json
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/netcoreapp3.1/Benchmark.runtimeconfig.json
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/netcoreapp3.1/Benchmark.runtimeconfig.dev.json
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/netcoreapp3.1/Benchmark.dll
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/netcoreapp3.1/Benchmark.pdb
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp3.1/Benchmark.csprojAssemblyReference.cache
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp3.1/Benchmark.AssemblyInfoInputs.cache
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp3.1/Benchmark.AssemblyInfo.cs
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp3.1/Benchmark.csproj.CoreCompileInputs.cache
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp3.1/Benchmark.dll
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp3.1/Benchmark.pdb
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/netcoreapp3.1/Benchmark.genruntimeconfig.cache

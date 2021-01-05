@@ -1,0 +1,8 @@
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/net48/Benchmark.exe.config
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/net48/Benchmark.exe
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/bin/Debug/net48/Benchmark.pdb
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/net48/Benchmark.csprojAssemblyReference.cache
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/net48/Benchmark.AssemblyInfoInputs.cache
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/net48/Benchmark.AssemblyInfo.cs
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/net48/Benchmark.exe
+/Users/serkaneren/Desktop/gitP/netcore-benchmark/Benchmark/obj/Debug/net48/Benchmark.pdb
